@@ -173,7 +173,7 @@ Make sure the `vendor/` folder is inside your project directory and `require '..
 
 ## 👨‍💻 Author
 
-Developed by **[Your Name]**  
+Developed by **TheAshokMaharana**  
 Feel free to contribute or fork the project!
 
 ---
